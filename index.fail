@@ -1,0 +1,79 @@
+
+
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Contact Microsoft Customer Service for professional assistance. Reach us via phone or chat for reliable and swift support.">
+  
+  <title>Site moved due to Non payment</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      background-color: #f7f7f7;
+      text-align: center;
+      padding: 20px;
+      margin: 0;
+    }
+
+    h1 {
+      color: #0070ba;
+      margin-bottom: 20px;
+    }
+
+    .call-button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #0070ba;
+      color: #fff;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+
+    .call-button:hover {
+      background-color: #0056b3;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      text-align: left;
+    }
+
+    .logo {
+      display: block;
+      margin: 0 auto 20px;
+      width: 200px;
+      height: 200;
+    }
+
+    h2 {
+      color: #0070ba;
+      margin-top: 0;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #444;
+      margin-bottom: 20px;
+    }
+
+    li {
+      list-style: disc;
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1TY3dLl0EtFoMSmMOYQLiZiMrH0IAbWwGKA&s" />
+    <p>This site is permanently moved to new location. Please contact the server administrator</p>
+
+</body></html>
